@@ -4,7 +4,7 @@ const data = [
     { IdReagent: 6996, ReagentCode: 6972, en: "ELITECH Group Reagents", it: "ELITECH Group Reagents", fr: "ELITECH Group Reagents", de: "ELITECH Group Reagents", xx: "ELITECH Group Reagents", LabCode: 0, Disabled: 0 },
     { IdReagent: 6998, ReagentCode: 6970, en: "VIRION SERION ELISA classic", it: "VIRION SERION ELISA classic", fr: "VIRION SERION ELISA classic", de: "VIRION SERION ELISA classic", xx: "VIRION SERION ELISA classic", LabCode: 0, Disabled: 0 },
     { IdReagent: 6999, ReagentCode: 100008, en: "ROCHE Combur Test", it: "ROCHE Combur Test", fr: "ROCHE Combur Test", de: "ROCHE Combur Test", xx: "ROCHE Combur Test", LabCode: 0, Disabled: 1 },
-    { IdReagent: 7000, ReagentCode: 100009, en: "HEALGEN", it: "HEALGEN", fr: "HEALGEN", de: "HEALGEN", xx: "HEALGEN", LabCode: 0, Disabled: 0 },
+    { IdReagent: 7000, ReagentCode: 100009, en: "Hoş geldin", it: "HEALGEN", fr: "HEALGEN", de: "HEALGEN", xx: "HEALGEN", LabCode: 0, Disabled: 0 },
     { IdReagent: 7001, ReagentCode: 100010, en: "SIEMENS Multistix", it: "SIEMENS Multistix", fr: "SIEMENS Multistix", de: "SIEMENS Multistix", xx: "SIEMENS Multistix", LabCode: 0, Disabled: 0 },
     { IdReagent: 7002, ReagentCode: 100011, en: "SIEMENS Clinitek", it: "SIEMENS Clinitek", fr: "SIEMENS Clinitek", de: "SIEMENS Clinitek", xx: "SIEMENS Clinitek", LabCode: 0, Disabled: 0 },
     { IdReagent: 7003, ReagentCode: 100012, en: "MINDRAY U-11", it: "MINDRAY U-11", fr: "MINDRAY U-11", de: "MINDRAY U-11", xx: "MINDRAY U-11", LabCode: 0, Disabled: 1 },
